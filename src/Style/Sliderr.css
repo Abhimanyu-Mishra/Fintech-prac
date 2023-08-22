@@ -1,0 +1,36 @@
+.dyn-div{
+
+    z-index: 1;
+ 
+    
+ }
+ .dyn-img{
+     height: 90vh;
+     width: 100%;
+ 
+ }
+ .slide-main{
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 2%;
+  background-color: rgb(160, 224, 203);
+ }
+
+ .imgtext{
+    width: 80%;
+    text-align: center; 
+    color: white;
+    background-color: rgba(62, 60, 60, 0.742);
+    border-radius: 10px;
+    top: 72vh;
+    z-index: 2;
+    position: absolute;
+ }
+ .get-loan{
+    background-color: rgb(21, 90, 90);
+    color: white;
+    padding: 1%;
+    margin: 1%;
+ }
+
