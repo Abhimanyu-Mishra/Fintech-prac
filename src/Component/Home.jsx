@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import re from "../assetss/re.jpeg"
 import CalculateIcon from '@mui/icons-material/Calculate';
 import FactCheckIcon from '@mui/icons-material/FactCheck';
 import QuizIcon from '@mui/icons-material/Quiz';
@@ -211,7 +210,7 @@ const Home = () => {
                 </div>
 
             </div>
-
+          
         </div>
     )
 }

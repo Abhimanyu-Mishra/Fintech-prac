@@ -1,0 +1,61 @@
+.news-l{
+    color: rgb(21, 90, 90);
+    font-size: 3em;
+    font-weight: bold;
+}
+.sec-heading{
+    color: rgb(21, 90, 90);
+    font-size: 1.7em;
+}
+.emaill{
+    border: 1px solid gray;
+    width: 40%;
+    height: 19px;
+    border-radius: 5px;
+    text-align: center;
+    padding:1%;
+    margin: 2%;
+}
+.subs{
+    background-color: rgb(21, 90, 90);
+    color: white;
+    border: 1px solid gray;
+    width: 10%;
+
+    border-radius: 5px;
+    text-align: center;
+    padding:1.2%;
+    margin-left: -3%;
+}
+.form-main{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 2% ;
+    margin: 2% 8.5%;
+}
+
+.form-sub1{
+    width: 40%;
+}
+.form-sub2{
+    width: 35%;
+}
+.namee{
+    border: 1px solid gray;
+    width: 90%;
+    height: 19px;
+    border-radius: 5px;
+    padding:2%;
+    margin: 0%;
+}
+.send-message{
+    background-color: rgb(21, 90, 90);
+    color: white;
+    border: 1px solid gray;
+    width: 30%; 
+}
